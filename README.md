@@ -1,0 +1,3 @@
+-So, Hello my name is Andrew im from Ukraine, im 16 y.o and I'm started programming in c# 
+and already made several programs so maybe I'll post them here later.
+that's all i can't say right now...
