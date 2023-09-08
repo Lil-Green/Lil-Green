@@ -1,3 +1,3 @@
--So, Hello my name is Andrew im from Ukraine, im 17 y.o and I'm started programming in c#, node.js
+-So, Hello my name is Andrew im from Ukraine, im 18 y.o and I'm started programming in c#, Java, node.js
 and already made several programs so maybe I'll post them here later.
 that's all i can't say right now...
